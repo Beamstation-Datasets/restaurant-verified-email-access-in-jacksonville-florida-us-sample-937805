@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Jacksonville, Florida, US",
+  "export_job_id": "4f1233b2-9618-47d2-8603-da9fd20f7800",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 937805,
+  "location_name": "Jacksonville",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-jacksonville-florida-us-sample-937805",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/937805/beamstation_937805_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 66,
+  "sample_sha256": "36fbe719d942b7188836498047609bf4ea7758f7055a5d62860bffac37f29abc",
+  "sample_size_bytes": 282023,
+  "total_records": 664,
+  "updated_at": "2026-04-07T22:42:46.741850+00:00"
+}
