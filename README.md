@@ -9,9 +9,9 @@
 | Dataset ID | `937805` |
 | Location | Jacksonville |
 | Category | Restaurants |
-| Full dataset size | 664 records |
-| Free sample size | 66 records (9.94%) |
-| Last export | 2026-04-07T22:42:46.741850+00:00 |
+| Full dataset size | 660 records |
+| Free sample size | 66 records (10.0%) |
+| Last export | 2026-04-15T04:27:07.968527+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-jacksonville-florida-us-sample-937805/releases/download/sample-latest/beamstation_937805_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
