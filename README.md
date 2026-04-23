@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Jacksonville, Florida, US
 
-> Free BeamStation sample export with 66 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `937805` |
 | Location | Jacksonville |
 | Category | Restaurants |
-| Full dataset size | 660 records |
-| Free sample size | 66 records (10.0%) |
-| Last export | 2026-04-15T04:27:07.968527+00:00 |
+| Full dataset size | 204 records |
+| Free sample size | 20 records (9.8%) |
+| Last export | 2026-04-22T09:53:57.387063+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-jacksonville-florida-us-sample-937805/releases/download/sample-latest/beamstation_937805_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
