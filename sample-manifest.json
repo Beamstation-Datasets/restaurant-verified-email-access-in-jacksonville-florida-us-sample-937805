@@ -1,12 +1,12 @@
 {
-  "export_job_id": "38c92029-0b6a-49af-b84e-f15038211333",
+  "export_job_id": "1ce8fb79-ca47-4168-83aa-a899edb13220",
   "id_short": 937805,
-  "published_at": "2026-04-23T07:17:52Z",
+  "published_at": "2026-04-29T19:47:17Z",
   "repo_name": "restaurant-verified-email-access-in-jacksonville-florida-us-sample-937805",
   "sample_asset_name": "beamstation_937805_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/937805/beamstation_937805_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "3c430939e0e5e4ff10083ed0ab1df433e952d1f92ddc73fa64570998eb97adc9",
-  "sample_size_bytes": 99724,
-  "total_records": 204
+  "sample_records": 66,
+  "sample_sha256": "e8e8bad567b0f04954dcb02d29e1b985023b4a486aa4c9e73d67643c93e0de01",
+  "sample_size_bytes": 282721,
+  "total_records": 668
 }
